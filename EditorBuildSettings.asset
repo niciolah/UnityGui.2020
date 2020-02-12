@@ -12,6 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Linear.unity
     guid: 509b9c0bb198d40f39663b91a262f900
   - enabled: 1
+    path: Assets/Scenes/Rotate.unity
+    guid: b026e1174b9bc40939ee5042316f78b8
+  - enabled: 1
     path: Assets/Scenes/FlowSubmenu.unity
     guid: 20ca7398355f349fcb728aea5feb153c
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 74166dc56d1974b2bb703503c1f3f7e3
+  - enabled: 1
+    path: Assets/Scenes/Tunnel.unity
+    guid: 22642a671b63a46f786359c57d085cb3
   m_configObjects: {}
